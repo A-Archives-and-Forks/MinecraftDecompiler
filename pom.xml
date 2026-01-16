@@ -22,7 +22,7 @@
         <depend.vineflower.ver>1.11.1</depend.vineflower.ver>
         <depend.jbannos.ver>26.0.2-1</depend.jbannos.ver>
         <depend.jmh.ver>1.37</depend.jmh.ver>
-        <depend.rewh.ver>0.1</depend.rewh.ver>
+        <depend.rewh.ver>0.2-SNAPSHOT</depend.rewh.ver>
     </properties>
     <licenses>
         <license>
